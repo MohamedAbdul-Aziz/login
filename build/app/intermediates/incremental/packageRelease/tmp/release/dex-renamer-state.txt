@@ -1,4 +1,4 @@
-#Fri Dec 03 11:36:00 EET 2021
+#Wed Dec 08 23:23:27 EET 2021
 base.0=/home/zizo/login/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

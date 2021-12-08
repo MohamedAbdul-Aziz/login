@@ -1,4 +1,4 @@
-#Fri Dec 03 11:44:10 EET 2021
+#Wed Dec 08 23:25:42 EET 2021
 base.0=/home/zizo/login/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
